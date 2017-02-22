@@ -13,3 +13,6 @@ Up  jump straight up
 L jump left
 A jump right
 
+Disclamer:
+I do not own the rights to intro.wav and in_game.wav. They were written by Shaun Martin("One Big Party") and Tasha Cobbs ("Happy") respectively. This is not for profit in any way. It is for educational use only.
+I did write the game_over music however. Feel free to use it if you like.
